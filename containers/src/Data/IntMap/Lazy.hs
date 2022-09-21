@@ -173,7 +173,7 @@ module Data.IntMap.Lazy (
 
     -- ** Strict folds
     , foldr'
-    , foldl'
+    , IM.foldl'
     , foldrWithKey'
     , foldlWithKey'
 

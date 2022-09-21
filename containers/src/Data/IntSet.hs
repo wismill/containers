@@ -124,7 +124,7 @@ module Data.IntSet (
             , IS.foldl
             -- ** Strict folds
             , foldr'
-            , foldl'
+            , IS.foldl'
             -- ** Legacy folds
             , fold
 
